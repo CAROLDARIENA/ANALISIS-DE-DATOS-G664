@@ -92,7 +92,7 @@ En este proyecto se realiza un **Análisis Exploratorio de Datos (EDA)** que inc
 
 Nombre: Carol Dariena Martínez Benítez  
 Correo: *(agrega tu correo si lo deseas)*  
-Curso: Análisis de Datos  
+Curso: Análisis de Datos  G664 TALENTO TECH
 Plataforma educativa: [nombre del curso o institución]
 
 ---
